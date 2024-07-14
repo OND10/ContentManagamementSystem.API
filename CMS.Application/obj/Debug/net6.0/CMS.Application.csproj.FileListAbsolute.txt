@@ -1,0 +1,16 @@
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\bin\Debug\net6.0\CMS.Application.deps.json
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\bin\Debug\net6.0\CMS.Application.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\bin\Debug\net6.0\CMS.Application.pdb
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\bin\Debug\net6.0\CMS.Domain.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\bin\Debug\net6.0\CMS.Domain.pdb
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.csproj.AssemblyReference.cache
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.AssemblyInfoInputs.cache
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.AssemblyInfo.cs
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.csproj.CoreCompileInputs.cache
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.csproj.CopyComplete
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\refint\CMS.Application.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.pdb
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\ref\CMS.Application.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Application\obj\Debug\net6.0\CMS.Application.sourcelink.json

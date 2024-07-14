@@ -1,0 +1,15 @@
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\bin\Debug\net6.0\CMS.Domain.deps.json
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\bin\Debug\net6.0\CMS.Domain.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\bin\Debug\net6.0\CMS.Domain.pdb
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.csproj.AssemblyReference.cache
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.AssemblyInfoInputs.cache
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.AssemblyInfo.cs
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.csproj.CoreCompileInputs.cache
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\refint\CMS.Domain.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.pdb
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\ref\CMS.Domain.dll
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\bin\Debug\net6.0\CMS.Domain.runtimeconfig.json
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.genruntimeconfig.cache
+D:\visualstudiocodes\Csharp\visualSoft\project\ContentManagementSystem\CMS.Domain\obj\Debug\net6.0\CMS.Domain.sourcelink.json
