@@ -24,12 +24,6 @@ using CMS.Application.Services.Product.Queries.GetProduct;
 using CMS.Application.Services.Product.Queries.GetProductBasedonLang;
 using CMS.Application.Services.Product.Queries.GetProductById;
 using CMS.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace CMS.UnitTest.Shared
 {
     public class MockedEntities
@@ -518,20 +512,16 @@ namespace CMS.UnitTest.Shared
 
 
             new Faker<Cart>()
-              .RuleFor(p => p.Id, f => f.Random.Int())
-          .RuleFor(p => p.UserId, f => f.Lorem.Word())
-          .RuleFor(p => p.Discount, f => f.Random.Double())
-          .RuleFor(p => p.CartTotal, f => f.Random.Double())
-          .RuleFor(p => p.EnglishFullName, f => f.Lorem.Word())
-          .RuleFor(p => p.ArabicFullName, f => f.Lorem.Word())
-          .RuleFor(p => p.PhoneNumber, f => f.Random.Word())
-          .RuleFor(p => p.Email, f => f.Lorem.Word())
+                .RuleFor(p => p.Id, f => f.Random.Int())
+                .RuleFor(p => p.UserId, f => f.Lorem.Word())
+                .RuleFor(p => p.Discount, f => f.Random.Double())
+                .RuleFor(p => p.CartTotal, f => f.Random.Double())
+                .RuleFor(p => p.EnglishFullName, f => f.Lorem.Word())
+                .RuleFor(p => p.ArabicFullName, f => f.Lorem.Word())
+                .RuleFor(p => p.PhoneNumber, f => f.Random.Word())
+                .RuleFor(p => p.Email, f => f.Lorem.Word())
 
         };
-
-
-
-
 
 
         public CartResponseDto CartResponseDto = new Faker<CartResponseDto>()
@@ -576,8 +566,6 @@ namespace CMS.UnitTest.Shared
         };
 
         public CreateCartCommand CreateCartCommand = new CreateCartCommand();
-                    
-        
 
         public DeleteCartCommand DeleteCartCommand = new DeleteCartCommand
         {
