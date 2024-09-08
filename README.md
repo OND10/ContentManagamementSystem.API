@@ -1,4 +1,3 @@
-# E-commerce API Platform 
+###  Content Management System with Dot Net 
 
-Developed e-commerce platform using microservice architecture. Building a MVC project to consume all these microservices using API Gateway. Microservices are built as VSA(vertical slice architecture) and CA(Clean Architecture).
-Using Azure Service Bus for Email messaging and registering users.
+- A small CMS build with Clean Architecture to achieve mechansim of which a content management system does. I use CQRS, Repository patterns to have a good scalable, maintainable and clean project. 
