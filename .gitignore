@@ -1,8 +1,10 @@
 /CMS.Api/obj
 /CMS.Api/bin
+/CMS.Api/Images
 /CMS.Domain/obj
 /CMS.Domain/bin
 /CMS.Application/obj
 /CMS.Application/bin
 /CMS.Infustracture/obj
 /CMS.Infustracture/bin
+
